@@ -1,0 +1,32 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.kon"
+    },
+    "jhipsterVersion": "5.6.1",
+    "applicationType": "monolith",
+    "baseName": "jhipsterdemo",
+    "packageName": "com.kon",
+    "packageFolder": "com/kon",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": "spring-websocket",
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "YjQyMjM4ZWJlYzg5NTA5OTlhNTBhMjQ4NDU5NzY0MjA2OWEzZTg1Y2UzZWQzMzY5MGUxYWIzMjQyMGFmZjNiNjgzNDA4MDJhNjU5N2Y2NjNiMDA0MWFiMDVkYzY0MzQxYzU4M2U0MTE3NzA2YzBkZTA5YTU2M2Q2MGNiYjA2ZjQ=",
+    "clientFramework": "react",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "enableTranslation": false
+  }
+}
